@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Purvik N Gowda
 
-<!--
-**purvik-n/purvik-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year CSE (Cybersecurity Specialization) Student  
+💻 Java Developer | Cybersecurity Enthusiast  
+🛠 Building simple tools and exploring offensive security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🔐 [PasswordStrengthChecker](https://github.com/purvik-n/PasswordStrengthChecker) – Beginner-friendly Java tool that checks how strong a password is.
+
+---
+
+## 🧠 Currently Learning
+
+- Java OOP & DSA
+- Linux Fundamentals
+- Ethical Hacking (CEH Topics)
+- Git & GitHub
+
+---
+
+## 📫 Reach Me
+
+- GitHub: [@purvik-n](https://github.com/purvik-n)
+- Email: purviknarasimha20@gmail.com
+
+---
+
+> "Every pro was once a beginner who didn’t quit." 💪
