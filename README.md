@@ -44,4 +44,34 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### 🛡️ CyberSentinelX
+Java-based Suspicious Behavior Analyzer designed to detect abnormal activity patterns.
+🔗 https://github.com/purvik-n/CyberSentinelX
+
+---
+
+### 🧠 NeuroGuard-AI-IDS
+AI-inspired Intrusion Detection System focused on identifying suspicious behavior.
+🔗 https://github.com/purvik-n/NeuroGuard-AI-IDS
+
+---
+
+### 🐍 Python For Hacking Lab
+Cybersecurity learning lab exploring Python-based security concepts and automation.
+🔗 https://github.com/purvik-n/Python-For-Hacking-Lab
+
+---
+
+### 🐚 100 Days Bash Scripting Journey
+Linux automation and Bash scripting challenge from basics to advanced level.
+🔗 https://github.com/purvik-n/bash_scripting_for_100_days
+
+---
+
+### 🔐 Password Strength Checker (Java)
+Simple Java tool for evaluating password strength and security.
+🔗 https://github.com/purvik-n/PasswordStrengthChecker
+
 
